@@ -1,0 +1,14 @@
+{
+  "name": "source_code",
+  "version": "1.0.0",
+  "description": "Source Code for food-sharing app, Working Title 'homeGrown'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Allen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
